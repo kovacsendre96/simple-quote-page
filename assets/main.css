@@ -1,0 +1,31 @@
+
+@font-face{
+    src: url(/assets/CrimsonText-Italic.ttf);
+    font-family:CrimsonText;
+    
+}
+@font-face{
+    src: url(/assets/JuliusSansOne-Regular.ttf);
+    font-family:JuliusSans;
+
+}
+body{
+    background: url(freedom.jpg);
+    background-size: 100% ;
+    color:#333333;
+    text-align: center;
+
+}
+h1{
+    font-family: JuliusSans;
+    font-size: 40px;
+    line-height: 60px;
+    font-weight: 400;
+    
+}
+p{
+    font-family: CrimsonText;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400   ;
+}
